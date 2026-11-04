@@ -1,1 +1,17 @@
 /* место для вашего кода */
+
+.letter_spacing {
+    letter-spacing: 0.6em;
+}
+
+.text_right {
+    text-align: right;
+    display: block;
+}
+
+.about__text {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 20px;
+}
